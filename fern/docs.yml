@@ -1,5 +1,5 @@
 instances:
-  - url: jsf-labs.docs.buildwithfern.com
+  - url: https://jsf-labs.docs.buildwithfern.com
   custom-domain: docs.jsflabs.io
 
 title: JSF Labs
